@@ -1,0 +1,185 @@
+{
+  "common": {
+    "getStarted": "Get Started",
+    "learnMore": "Learn More",
+    "features": "Features",
+    "pricing": "Pricing",
+    "testimonials": "Testimonials",
+    "partners": "Partners",
+    "readMore": "Read more",
+    "skip": "Skip",
+    "about": "About",
+    "blog": "Blog",
+    "careers": "Careers",
+    "contact": "Contact",
+    "documentation": "Documentation",
+    "updates": "Updates",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "security": "Security",
+    "cookies": "Cookies",
+    "copyright": "All rights reserved",
+    "back": "Back",
+    "next": "Next",
+    "processing": "Processing..."
+  },
+  "hero": {
+    "title": "Transform Your Business with Our SaaS Solution",
+    "subtitle": "Streamline your workflow, boost productivity, and scale your business with our comprehensive suite of tools.",
+    "announcement": "Announcing our next-gen platform.",
+    "readMore": "Read more"
+  },
+  "features": {
+    "title": "Everything you need",
+    "subtitle": "Powerful features for modern businesses",
+    "description": "Our platform provides all the tools you need to succeed in today's competitive landscape.",
+    "performance": {
+      "title": "Lightning Fast Performance",
+      "description": "Experience blazing-fast load times and real-time updates across all your devices."
+    },
+    "security": {
+      "title": "Enterprise Security",
+      "description": "Bank-grade encryption and security measures to keep your data safe and secure."
+    },
+    "analytics": {
+      "title": "Advanced Analytics",
+      "description": "Gain valuable insights with our comprehensive analytics and reporting tools."
+    },
+    "support": {
+      "title": "Premium Support",
+      "description": "24/7 dedicated support team to help you succeed every step of the way."
+    }
+  },
+  "pricing": {
+    "title": "Choose the right plan for your business",
+    "monthly": "/month",
+    "starter": {
+      "name": "Starter",
+      "description": "Perfect for small teams and startups.",
+      "price": "$29",
+      "features": [
+        "Up to 5 team members",
+        "5GB storage",
+        "Basic analytics",
+        "Email support",
+        "API access"
+      ]
+    },
+    "professional": {
+      "name": "Professional",
+      "description": "Ideal for growing businesses.",
+      "price": "$99",
+      "features": [
+        "Up to 20 team members",
+        "50GB storage",
+        "Advanced analytics",
+        "Priority support",
+        "API access",
+        "Custom integrations",
+        "Team collaboration tools"
+      ]
+    },
+    "enterprise": {
+      "name": "Enterprise",
+      "description": "For large organizations.",
+      "price": "$299",
+      "features": [
+        "Unlimited team members",
+        "Unlimited storage",
+        "Custom analytics",
+        "24/7 phone support",
+        "Advanced API access",
+        "Custom integrations",
+        "Team collaboration tools",
+        "Dedicated account manager",
+        "Custom training"
+      ]
+    }
+  },
+  "testimonials": {
+    "title": "What Our Customers Say",
+    "subtitle": "Don't just take our word for it - hear from our satisfied customers"
+  },
+  "footer": {
+    "description": "Transform your business with our powerful SaaS platform.",
+    "product": "Product",
+    "company": "Company",
+    "legal": "Legal",
+    "social": {
+      "twitter": "Follow us on Twitter",
+      "github": "View our GitHub",
+      "linkedin": "Connect on LinkedIn"
+    }
+  },
+  "onboarding": {
+    "steps": {
+      "business": {
+        "title": "Business Information"
+      },
+      "personal": {
+        "title": "Personal Information"
+      },
+      "industry": {
+        "title": "Industry Selection"
+      },
+      "confirmation": {
+        "title": "Confirmation",
+        "heading": "Ready to Set Up Your System",
+        "description": "We'll configure your system based on your industry requirements. Click complete to finish the setup process.",
+        "summary": "Summary"
+      }
+    },
+    "fields": {
+      "companyName": "Company Name",
+      "domainName": "Domain Name",
+      "phoneNumber": "Phone Number",
+      "email": "Email Address",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "companySize": "Company Size",
+      "position": "Position",
+      "companyLogo": "Company Logo",
+      "company": "Company",
+      "contact": "Contact",
+      "industry": "Industry"
+    },
+    "placeholders": {
+      "companyName": "Enter your company name",
+      "domainName": "Enter your domain name",
+      "email": "Enter your email",
+      "firstName": "Enter your first name",
+      "lastName": "Enter your last name",
+      "position": "Enter your position",
+      "companySize": "Select company size"
+    },
+    "companySizes": {
+      "1-10": "1-10 employees",
+      "11-50": "11-50 employees",
+      "51-200": "51-200 employees",
+      "201+": "201+ employees"
+    },
+    "actions": {
+      "uploadFile": "Upload a file",
+      "dragAndDrop": "or drag and drop",
+      "complete": "Complete Setup"
+    },
+    "fileTypes": "PNG, JPG, GIF up to 10MB"
+  },
+  "validation": {
+    "required": {
+      "companyName": "Company name is required",
+      "domainName": "Domain name is required",
+      "phoneNumber": "Phone number is required",
+      "email": "Email is required",
+      "firstName": "First name is required",
+      "lastName": "Last name is required",
+      "companySize": "Company size is required",
+      "position": "Position is required",
+      "industry": "Please select an industry"
+    },
+    "format": {
+      "phoneNumber": "Phone number must start with +968",
+      "email": "Invalid email format"
+    }
+  }
+}
